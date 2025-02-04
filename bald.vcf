@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Bal;Deepak;;;;
+FN:Deepak Bal
+EMAIL;TYPE=WORK,INTERNET:bald@mail.montclair.edu
+TITLE:Associate Professor
+ORG:Montclair State University;Mathematics
+TEL;TYPE=WORK,VOICE:(973) 655-3936
+ADR;TYPE=WORK:;Center for Computing and Information Science 130D;1 Normal Ave.;Montclair;NJ;07043;United States of America
+END:VCARD
